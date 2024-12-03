@@ -20,7 +20,7 @@ using just an easy config file.
  
 **Timestamps**  
 The Start and End timestamps are in epoch/unix time. 
-Your desired values can be found [here]([https://www.epochconverter.com/](https://dateconvertor.com/en/)).
+Your desired values can be found [here]([https://dateconvertor.com/en/]).
 For elapsed time set only the StartTimestamp. For remaining time set both.
 Though discord seems to only care about hours/minutes/seconds.
 As it doesnt go above 24hrs either way ¯\\\_(ツ)\_/¯
